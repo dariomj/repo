@@ -1,5 +1,5 @@
 Package: com.nfzerox.tlsfix
-Version: 0.0.8-alpha
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: nfzerox
 Depends: 
@@ -7,9 +7,9 @@ Filename: ./debs/com.nfzerox.tlsfix_1.0.0_iphoneos_arm.deb
 Size: 1176
 Section: Tweaks
 Description: Modern HTTPS for legacy iPhone, iPad, and iPod touch running iOS 3 to iOS 9.
-Depiction: https://dariomj.github.io/depictions/?p=
-Icon: https://uint2048.github.io/CydiaIcon.png
-Name: CyberKit Jetsam Configurator
-Sileodepiction: https://uint2048.github.io/depictions/jetsam-configurator/sileo.json
+Depiction: https://dariomj.github.io/depictions/?p=com.nfzerox.tlsfix
+Icon: https://dariomj.github.io/CydiaIcon.png
+Name: TLSFix
+
 
 
